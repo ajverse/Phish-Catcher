@@ -1,0 +1,24 @@
+~ Source: malwareurl.com
+# Latest reported Sites:
+ypgxp.info
+www.yetbm.info
+wodty.info
+vvxbn.info
+vieworder-amzn.cc
+upikub.com
+rsepf.info
+rcuxs.info
+pgyha.info
+oturiy.com
+
+# Latest blaclisted IP Addresses:
+188.114.96.3
+104.21.5.177
+104.21.82.254
+172.67.221.11
+188.114.96.3
+172.67.223.100
+172.67.173.182
+172.67.150.231
+188.114.97.3
+188.114.97.3
