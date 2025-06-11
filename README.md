@@ -3,7 +3,6 @@
 
 **A Python-based application that helps users check if an IP or URL is **malicious, blacklisted, or a phishing link** using **Kivy for UI and backend**. The project logs past searches in a CSV file and provides a direct link for Indian users to report cyber crimes.**
 
-
 ## Features
 
 ✅ IP Reputation Check
@@ -12,8 +11,6 @@
 ✅ Kivy UI for later Android compatibility use cases
 ✅ Enhanced security measures with sandboxed environment
 ✅ Direct link to report cybercrimes (for Indian citizens)
-
----
 
 # Project Structure
 
@@ -26,8 +23,6 @@ Phishing_Checker_Project/
 │   ├── checked_urls.csv   # Stores checked URLs/IPs
 │── README.md              # Project documentation
 │── requirements.txt       # Required dependencies
-
----
 
 # Installation & Setup
 
