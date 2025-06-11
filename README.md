@@ -1,9 +1,8 @@
 # Phish_Catcher
-# Phishing & IP Checker (Kivy App)
+- Phishing & IP Checker (Kivy App)
 
-A Python-based application that helps users check if an IP or URL is **malicious, blacklisted, or a phishing link** using **Kivy for UI and backend**. The project logs past searches in a CSV file and provides a direct link for Indian users to report cyber crimes.
+**A Python-based application that helps users check if an IP or URL is **malicious, blacklisted, or a phishing link** using **Kivy for UI and backend**. The project logs past searches in a CSV file and provides a direct link for Indian users to report cyber crimes.**
 
----
 
 ## Features
 
