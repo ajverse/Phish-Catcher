@@ -65,8 +65,6 @@ URL, www.example.com, 2025-01-30, Safe
 IP, 192.168.1.1, 2025-01-30, Blacklisted
 ```
 
----
-
 # Cybercrime Reporting (India)
 
 For Indian citizens, users can **report malicious URLs or IPs** directly through:
@@ -74,13 +72,11 @@ For Indian citizens, users can **report malicious URLs or IPs** directly through
 
 The Kivy UI includes a clickable button to access this portal.
 
----
 
 # License
 
 This project is open-source and licensed under the MIT License.
 
----
 
 # Contact
 
